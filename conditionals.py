@@ -5,8 +5,8 @@
 
 # hungry = True
 
-# if hungry:
-#     print("Eat Some Food")
+if hungry:
+    print("Eat Some Food")
 
 
 
