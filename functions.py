@@ -34,15 +34,6 @@ print("Total Ages", add_ages(evans = 25, George = 21, Agnes = 20))
 
 
 
-
-
-
-
-
-
-
-
-
 def add_nums(a, b):
     answer = a + b
     
@@ -55,22 +46,6 @@ def add_nums(a, b):
 
 
 print(add_nums(12, 53))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
